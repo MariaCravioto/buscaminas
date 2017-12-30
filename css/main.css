@@ -1,0 +1,43 @@
+body{
+  background-color: #000;
+}
+
+/*
+table
+*/
+img{
+  height: 150px;
+  width: 150px;
+}
+
+table {
+  border-collapse:collapse;
+  border: none;
+  margin-left: 100px;
+  margin-top: 20px;
+  width: 610px;
+}
+
+.text{
+ display: inline-block;
+ float: right;
+ margin-top: -600px;
+}
+
+
+/*
+*
+*/
+h1{
+  color: #FFF;
+  margin-right: 250px;
+}
+
+#start{
+  background-color: #DAA520;
+  display: inline-block;
+  float: right;
+  margin-right: 300px;
+  margin-top: 200px;
+  padding: 20px;
+}
